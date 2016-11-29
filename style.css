@@ -32,10 +32,15 @@ ul{
 	margin-top: 100px;
 	margin-left: 40px;
 }
-.decaler{
+.decalerg{
 	float: left;
-    	margin-top: 0px;
-	margin-bottom: 0px;
+	margin: 0 0 10px 10px;
+    /*	margin-top: 0px;
+	margin-bottom: 0px;*/
+}
+.decalerd{
+	float:right;
+	margin: 0 0 10px 10px;
 }
 .clearfix:after{
 	content: ".";
@@ -44,10 +49,14 @@ ul{
 	clear:both;
 	visibility:hidden;
 }
-#objective h2{
+/*#objective h2{
 	float:left;
     margin-left:50px;
 }
 #objective p{
     float:left;
 }
+#obje{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}*/
