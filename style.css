@@ -33,7 +33,21 @@ ul{
 	margin-left: 40px;
 }
 .decaler{
-	float: right;
-	margin-top: 0px;
+	float: left;
+    	margin-top: 0px;
 	margin-bottom: 0px;
+}
+.clearfix:after{
+	content: ".";
+	display:block;
+	height:0;
+	clear:both;
+	visibility:hidden;
+}
+#objective h2{
+	float:left;
+    margin-left:50px;
+}
+#objective p{
+    float:left;
 }
