@@ -34,13 +34,14 @@ ul{
 }
 .decalerg{
 	float: left;
-	margin: 0 0 10px 10px;
+
+
     /*	margin-top: 0px;
 	margin-bottom: 0px;*/
 }
 .decalerd{
 	float:right;
-	margin: 0 0 10px 10px;
+	margin-right: 800px;
 }
 .clearfix:after{
 	content: ".";
